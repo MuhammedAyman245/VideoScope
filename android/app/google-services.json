@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721769502040",
+    "project_id": "videoscope-fe078",
+    "storage_bucket": "videoscope-fe078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721769502040:android:177511aa96c3acb82f812d",
+        "android_client_info": {
+          "package_name": "com.example.grad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721769502040-s382cnaansr30davvv42ta8cs8lgahsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdT3T_dyqpsVvjJyuOiRUvDi-bp8G1r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721769502040-s382cnaansr30davvv42ta8cs8lgahsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
